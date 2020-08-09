@@ -1,2 +1,2 @@
 # Regression using python
-Adopted from book
+Adopted from book. 
